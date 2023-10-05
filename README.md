@@ -4,6 +4,8 @@
 
 [Rust Code Review Guidelines](https://github.com/ZhangHanDong/rust-code-review-guidelines) (RCRG) invites everyone to participate in its maintenance and improvement, aiming for higher quality Rust code.
 
+**Note: This guide is intended to provide a framework for Rust code reviewers and is not a set of rules that must be followed!**
+
 ## Introduction
 
 The engineering quality of software systems is related to various factors, such as code readability, maintainability, performance, etc., which require our comprehensive consideration.

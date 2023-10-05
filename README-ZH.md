@@ -4,6 +4,8 @@
 
 [ Rust 代码审查指南](https://github.com/ZhangHanDong/rust-code-review-guidelines)（RCRG,Rust Code Review Guidelines），希望大家可以一起参与维护与完善，让我们追求更高质量的 Rust 代码。
 
+**注意：本指南旨在为 Rust 代码审查者提供一个框架，并非必须要遵循的规则！**
+
 ## 前言
 
 软件系统的代码工程质量和很多方面因素相关，比如代码的可读性、可维护性、性能等等，需要我们综合考虑。
